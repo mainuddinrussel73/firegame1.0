@@ -22,6 +22,7 @@ some demo image of this game is given below.
 <img src="https://github.com/mainuddinrussel73/firegame1.0/blob/master/Screenshot_2018-02-11-22-42-27.png" width="150">
 <img src="https://github.com/mainuddinrussel73/firegame1.0/blob/master/Screenshot_2018-02-11-22-42-54.png" width="150">
 <img src="https://github.com/mainuddinrussel73/firegame1.0/blob/master/Screenshot_2018-02-11-22-44-17.png" width="150">
+<img src="https://github.com/mainuddinrussel73/firegame1.0/blob/master/Screenshot_2018-02-14-02-47-41.png" width="150">
 </div>
 
 
